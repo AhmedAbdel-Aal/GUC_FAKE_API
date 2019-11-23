@@ -1,4 +1,5 @@
-[
+{
+  "credentials":[
 {"username":"Ahmed.abdelaalabdou","password":"hsE1blPDmXg","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
 {"username":"Nihal.rashid","password":"WrxKue4","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
 {"username":"user3","password":"WauBMXDAHiBp","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]},
@@ -10,3 +11,4 @@
 {"username":"user9","password":"L2wTiIKaT","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
 {"username":"user10","password":"SljAok","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]}
 ]
+}
