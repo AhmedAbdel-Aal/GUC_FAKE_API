@@ -13,9 +13,6 @@
 {"username":"slim","password":"slim","type": "instructor","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
 {"username":"wael","password":"wael","type": "instructor","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]}
 ]
-  
-  "incredentials":[
 
-]
   
 }
