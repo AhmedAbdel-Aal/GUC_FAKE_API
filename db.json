@@ -1,14 +1,21 @@
 {
   "credentials":[
-{"username":"Ahmed.abdelaalabdou","password":"hsE1blPDmXg","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
-{"username":"Nihal.rashid","password":"WrxKue4","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
-{"username":"user3","password":"WauBMXDAHiBp","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]},
-{"username":"user4","password":"YY1J2FVHooLH","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]},
-{"username":"user5","password":"n3mgBJv7","courses":["CSEN301","CSEN302","PHYS301","MATH301"]},
-{"username":"user6","password":"IAwfYiQ","courses":["CSEN301","CSEN302","PHYS301","MATH301"]},
-{"username":"user7","password":"U5mvZe3jr9cv","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
-{"username":"user8","password":"YuVjbWpy","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
-{"username":"user9","password":"L2wTiIKaT","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
-{"username":"user10","password":"SljAok","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]}
+{"username":"Ahmed.abdelaalabdou","password":"hsE1blPDmXg","type": "student","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"nihal.rashed","password":"nihal","type": "student","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"aly.zamzamy","password":"aly","type": "student","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]},
+{"username":"user4","password":"YY1J2FVHooLH","type": "student","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]},
+{"username":"user5","password":"n3mgBJv7","type": "student","courses":["CSEN301","CSEN302","PHYS301","MATH301"]},
+{"username":"user6","password":"IAwfYiQ","type": "student","courses":["CSEN301","CSEN302","PHYS301","MATH301"]},
+{"username":"user7","password":"U5mvZe3jr9cv","type": "student","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"user8","password":"YuVjbWpy","type": "student","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"user9","password":"L2wTiIKaT","type": "student","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"user10","password":"SljAok","type": "student","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"slim","password":"slim","type": "instructor","courses":["CSEN701","CSEN702","CSEN703","CSEN704","DMET502"]},
+{"username":"wael","password":"wael","type": "instructor","courses":["CSEN501","CSEN502","CSEN605","CSEN503","DMET501","MATH501"]}
 ]
+  
+  "incredentials":[
+
+]
+  
 }
